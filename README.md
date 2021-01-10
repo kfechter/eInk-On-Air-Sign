@@ -12,3 +12,5 @@ Inky Impression On Air Sign using Python and MQTT
 # Printable Parts
 
 Add STL Links here
+
+# Assembly
